@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dhungelrishav
+- 👀 I’m interested in Bash
+- 🌱 I’m currently learning Python and scripting
+- 📫 Contace me via instagram and facebook (Username:@rishav.dhungeel)
